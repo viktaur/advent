@@ -1,0 +1,1 @@
+file:///home/viktaur/Documents/advent/d2/src/main.rs
